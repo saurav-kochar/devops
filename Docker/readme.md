@@ -1,6 +1,6 @@
 Docker Networking
 ---------------------------------
-Docker takes care of the network aspect by default
+sDocker takes care of the network aspect by default
 docker0 interface is created when docker is installed on Linux. 
 
 bridge, host, overlay, macvlan, none are some of the different types. Docker enterprise has overlay.
